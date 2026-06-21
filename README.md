@@ -1,2 +1,14 @@
 # zhhot-worldcup-pages
-HTML page archive and documentation
+
+静态页面发布集合
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
